@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Mandados",
+  "description": "Plataforma profesional de mensajería, paquetería y delivery local en Mérida, Yucatán.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
